@@ -1,4 +1,4 @@
-country = input('請問你是那國人: ')
+country = input('請問你是那國人1: ')
 age = input('你輸入年齡: ')
 age = int(age)
 if country == '台灣':
